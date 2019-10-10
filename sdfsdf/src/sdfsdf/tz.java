@@ -1,6 +1,6 @@
 package sdfsdf;
 
-public class sss {
+public class tz {
 	public static void main(String[] args) {
 		//ÄêÊı
 		int year = 5;
